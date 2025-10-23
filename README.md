@@ -1,5 +1,6 @@
 # Procesamiento de Imágenes I - Trabajo practico 1
 
+
 ## Configuración del Entorno Virtual
 
 

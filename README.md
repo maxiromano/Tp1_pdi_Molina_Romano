@@ -1,4 +1,4 @@
-# Procesamiento de Imágenes I - Detección y Validación de Formularios
+# Procesamiento de Imágenes I - Trabajo practico 1
 
 ## Configuración del Entorno Virtual
 
